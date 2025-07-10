@@ -80,8 +80,8 @@ You will see the following menu in the console:
 
 ## 📌 Notes
 
-- Database name: `inventory_db`
-- Table name: `products`
+- Database name: `InventoryDB`
+- Table name: `Products`
 - DB username/password: Update in `DBConnection.java` if needed
 
 ```java
@@ -90,14 +90,3 @@ con = DriverManager.getConnection("jdbc:mysql://localhost:3306/inventory_db", "r
 
 ---
 
-## 👨‍💻 Developed By
-
-**Hardik Bakhatriya**  
-Email: [your email]  
-Phone: [your number]
-
----
-
-## 📎 License
-
-This project is for educational/demo purposes only.
